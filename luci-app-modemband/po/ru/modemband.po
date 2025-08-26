@@ -1,0 +1,250 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Preferred LTE bands"
+msgstr "Предпочитаемые диапазоны LTE"
+
+msgid "Preferred 5G SA bands"
+msgstr "Предпочитаемые диапазоны 5G SA"
+
+msgid "Preferred 5G NSA bands"
+msgstr "Предпочитаемые диапазоны 5G NSA"
+
+msgid "Currently set LTE bands"
+msgstr "Текущие диапазоны LTE"
+
+msgid "Currently set 5G SA bands"
+msgstr "Текущие диапазоны 5G SA"
+
+msgid "Currently set 5G NSA bands"
+msgstr "Текущие диапазоны 5G NSA"
+
+msgid "Preferred LTE/5G Bands"
+msgstr "Предпочитаемые диапазоны LTE/5G"
+
+msgid "Supported LTE bands"
+msgstr "Поддерживаемые диапазоны LTE"
+
+msgid "Supported 5G SA bands"
+msgstr "Поддерживаемые диапазоны 5G SA"
+
+msgid "Supported 5G NSA bands"
+msgstr "Поддерживаемые диапазоны 5G NSA"
+
+msgid "5G bands cannot be read. Check if your modem supports this technology and if it is in the list of supported modems."
+msgstr "Не удалось прочитать диапазоны 5G. Проверьте, поддерживает ли ваш модем эту технологию и находится ли он в списке поддерживаемых модемов."
+
+msgid "LTE bands cannot be read. Check if your modem supports this technology and if it is in the list of supported modems."
+msgstr "Не удалось прочитать диапазоны LTE. Проверьте, поддерживает ли ваш модем эту технологию и находится ли он в списке поддерживаемых модемов."
+
+msgid ""
+"Configuration modem frequency bands. More "
+"information about the modemband application on the %seko.one.pl forum%s."
+msgstr ""
+"Настройка рабочих диапазонов модема. Подробнее "
+"о приложении modemband на %sфоруме eko.one.pl%s."
+
+msgid "LTE Bands Configuration"
+msgstr "Настройка диапазонов LTE"
+
+msgid "5G SA Bands Configuration"
+msgstr "Настройка диапазонов 5G SA"
+
+msgid "5G NSA Bands Configuration"
+msgstr "Настройка диапазонов 5G NSA"
+
+msgid "Preferred bands settings"
+msgstr "Настройки предпочтительных диапазонов"
+
+msgid "Modification of the bands"
+msgstr "Изменение диапазонов"
+
+msgid "Modem information"
+msgstr "Информация о модеме"
+
+msgid "The new bands settings have been sent to the modem. If the changes are not visible, a restart of the connection, modem or router may be required."
+msgstr "Новые настройки диапазонов отправлены в модем. Если изменения не видны, может потребоваться перезапуск соединения, модема или роутера."
+
+msgid "Apply changes"
+msgstr "Применить изменения"
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Please select a band(s)"
+msgstr "Пожалуйста, выберите диапазоны"
+
+msgid "Bands configuration"
+msgstr "Конфигурация диапазонов"
+
+msgid "Restore default bands"
+msgstr "Восстановить стандартные диапазоны"
+
+msgid "Waiting for device..."
+msgstr "Ожидание устройства..."
+
+msgid "Rebooting…"
+msgstr "Перезагрузка…"
+
+msgid "Perform reboot"
+msgstr "Выполнить перезагрузку"
+
+msgid "Restart"
+msgstr "Перезапустить соединение"
+
+msgid "Reboot"
+msgstr "Перезагрузить устройство"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Do you really want to restart the device?"
+msgstr "Вы действительно хотите перезагрузить устройство?"
+
+msgid "Additional options"
+msgstr "Дополнительные параметры"
+
+msgid "Select the preferred band(s) for the modem."
+msgstr "Выберите предпочтительные диапазоны для модема."
+
+msgid "Do you really want to set up all possible bands for the modem?"
+msgstr "Вы действительно хотите задать все возможные диапазоны для модема?"
+
+msgid "Preferred bands"
+msgstr "Предпочитаемые диапазоны"
+
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgid "Configuration modemband"
+msgstr "Конфигурация modemband"
+
+msgid "Configuration panel for modemband and gui application."
+msgstr "Панель настройки приложения modemband и графического интерфейса."
+
+msgid "Interface"
+msgstr "Интерфейс"
+
+msgid "Network interface for Internet access."
+msgstr "Сетевой интерфейс для доступа в Интернет."
+
+msgid "WAN restart after making changes to bands."
+msgstr "Перезапуск WAN после изменения диапазонов."
+
+msgid "Modem restart"
+msgstr "Перезапуск модема"
+
+msgid "Modem restart after making changes to bands."
+msgstr "Перезапуск модема после изменения диапазонов."
+
+msgid "Restart with AT command"
+msgstr "Перезапуск командой AT"
+
+msgid "AT command to restart the modem."
+msgstr "Команда AT для перезапуска модема."
+
+msgid "Port for communication with the modem"
+msgstr "Порт для связи с модемом"
+
+msgid "Please select a port"
+msgstr "Пожалуйста, выберите порт"
+
+msgid "Select one of the available ttyUSBX ports."
+msgstr "Выберите один из доступных портов ttyUSBX."
+
+msgid "No supported modem was found, quitting..."
+msgstr "Поддерживаемый модем не найден, завершение работы..."
+
+msgid "Port not found, quitting..."
+msgstr "Порт не найден, завершение работы..."
+
+msgid "Additional options useful for modem configuration."
+msgstr "Дополнительные параметры, полезные для настройки модема."
+
+msgid "Connection / router restart"
+msgstr "Перезапуск соединения / роутера"
+
+msgid "Hint: The name of the WAN section can be changed in the package settings panel."
+msgstr "Подсказка: Имя секции WAN можно изменить в панели настроек пакета."
+
+msgid "LTE band aggregation at UL (upload)"
+msgstr "Агрегация диапазонов LTE в UL (исходящий трафик)"
+
+msgid "No supported modem / router was found..."
+msgstr "Поддерживаемый модем / роутер не найден..."
+
+msgid "Hint: Option dedicated to the ZTE MF286D router."
+msgstr "Подсказка: Опция предназначена для роутера ZTE MF286D."
+
+msgid "Enable aggregation"
+msgstr "Включить агрегацию"
+
+msgid "Disable aggregation"
+msgstr "Выключить агрегацию"
+
+msgid "Disable"
+msgstr "Выключить"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Turn off notifications"
+msgstr "Выключить уведомления"
+
+msgid "Appearance and action settings"
+msgstr "Настройки внешнего вида и действий"
+
+msgid "Checking this option disables the notification that appears every time the bands are changed."
+msgstr "Отметка этой опции отключает уведомление, появляющееся при каждом изменении диапазонов."
+
+msgid "Modem settings template"
+msgstr "Шаблон настроек модема"
+
+msgid "Modem template configuration"
+msgstr "Конфигурация шаблона модема"
+
+msgid "Settings panel for the modemband application that allows you to customize the package for your modem."
+msgstr "Панель настроек приложения modemband, позволяющая адаптировать пакет под ваш модем."
+
+msgid "Edit script"
+msgstr "Редактировать скрипт"
+
+msgid "Supported bands depend on the region in which the modem operates. By modifying the DEFAULT_LTE_BANDS variable, you can easily adapt the package to your modem."
+msgstr "Поддерживаемые диапазоны зависят от региона работы модема. Изменяя переменную DEFAULT_LTE_BANDS, можно легко адаптировать пакет под ваш модем."
+
+msgid "Waiting to read data from the modem..."
+msgstr "Ожидание чтения данных из модема..."
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Template loaded"
+msgstr "Шаблон загружен"
+
+msgid "Refresh the view"
+msgstr "Обновить отображение"
+
+msgid "Reload"
+msgstr "Перезагрузить"
+
+msgid "Select the modem settings file"
+msgstr "Выберите файл настроек модема"
+
+msgid "Select the template assigned to the Vendor and ProdID of the modem."
+msgstr "Выберите шаблон, соответствующий производителю и ProdID модема."
+
+msgid "Band selection switch"
+msgstr "Переключатель выбора диапазонов"
+
+msgid "Deselect all"
+msgstr "Снять выделение со всех"
+
+msgid "Select all"
+msgstr "Выбрать все"
+
+msgid "Bands are disabled..."
+msgstr "Диапазоны отключены..."
+
+msgid "Check if you have selected the bands correctly."
+msgstr "Проверьте, правильно ли выбраны диапазоны."
+
