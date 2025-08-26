@@ -2,13 +2,13 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
 msgid "Preferred LTE bands"
-msgstr "Предпочитаемые диапазоны LTE"
+msgstr "LTE"
 
 msgid "Preferred 5G SA bands"
-msgstr "Предпочитаемые диапазоны 5G SA"
+msgstr "5G SA"
 
 msgid "Preferred 5G NSA bands"
-msgstr "Предпочитаемые диапазоны 5G NSA"
+msgstr "5G NSA"
 
 msgid "Currently set LTE bands"
 msgstr "Текущие диапазоны LTE"
@@ -54,13 +54,16 @@ msgid "5G NSA Bands Configuration"
 msgstr "Настройка диапазонов 5G NSA"
 
 msgid "Preferred bands settings"
-msgstr "Настройки предпочтительных диапазонов"
+msgstr "Настройка диапазонов"
 
 msgid "Modification of the bands"
-msgstr "Изменение диапазонов"
+msgstr "Диапазоны"
 
 msgid "Modem information"
 msgstr "Информация о модеме"
+
+msgid "Modem"
+msgstr "Модем"
 
 msgid "The new bands settings have been sent to the modem. If the changes are not visible, a restart of the connection, modem or router may be required."
 msgstr "Новые настройки диапазонов отправлены в модем. Если изменения не видны, может потребоваться перезапуск соединения, модема или роутера."
@@ -129,7 +132,7 @@ msgid "Network interface for Internet access."
 msgstr "Сетевой интерфейс для доступа в Интернет."
 
 msgid "WAN restart after making changes to bands."
-msgstr "Перезапуск WAN после изменения диапазонов."
+msgstr "Перезапуск интерфейса после применения диапазонов."
 
 msgid "Modem restart"
 msgstr "Перезапуск модема"
@@ -167,8 +170,14 @@ msgstr "Перезапуск соединения / роутера"
 msgid "Hint: The name of the WAN section can be changed in the package settings panel."
 msgstr "Подсказка: Имя секции WAN можно изменить в панели настроек пакета."
 
+msgid "Restart WAN"
+msgstr "Перезапуск интерфейса"
+
+msgid "Reboot"
+msgstr "Перезагрузка роутера"
+
 msgid "LTE band aggregation at UL (upload)"
-msgstr "Агрегация диапазонов LTE в UL (исходящий трафик)"
+msgstr "Исходящая агрегация LTE в UL"
 
 msgid "No supported modem / router was found..."
 msgstr "Поддерживаемый модем / роутер не найден..."
