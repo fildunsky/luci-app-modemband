@@ -307,7 +307,7 @@ return view.extend({
 			}
 		}		
 
-		var info = _('Configuration modem frequency bands. More information about the modemband application on the %seko.one.pl forum%s.').format('<a href="https://eko.one.pl/?p=openwrt-modemband" target="_blank">', '</a>');
+		var info = _('Configuration modem frequency bands').format('');
 
 		m = new form.JSONMap(this.formdata, _('5G SA Bands Configuration'), info);
 
