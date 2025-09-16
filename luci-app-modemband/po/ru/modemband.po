@@ -13,6 +13,9 @@ msgstr "5G NSA"
 msgid "Currently set LTE bands"
 msgstr "Текущие диапазоны LTE"
 
+msgid "Configuration modem frequency bands"
+msgstr "Настройка рабочих диапазонов модема"
+
 msgid "Currently set 5G SA bands"
 msgstr "Текущие диапазоны 5G SA"
 
@@ -114,7 +117,7 @@ msgid "Do you really want to set up all possible bands for the modem?"
 msgstr "Вы действительно хотите задать все возможные диапазоны для модема?"
 
 msgid "Preferred bands"
-msgstr "Предпочитаемые диапазоны"
+msgstr "Диапазоны"
 
 msgid "Configuration"
 msgstr "Конфигурация"
