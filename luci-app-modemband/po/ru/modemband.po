@@ -23,7 +23,7 @@ msgid "Currently set 5G NSA bands"
 msgstr "Текущие диапазоны 5G NSA"
 
 msgid "Preferred LTE/5G Bands"
-msgstr "Предпочитаемые диапазоны LTE/5G"
+msgstr "Диапазоны"
 
 msgid "Supported LTE bands"
 msgstr "Поддерживаемые диапазоны LTE"
